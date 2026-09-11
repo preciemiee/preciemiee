@@ -5,19 +5,16 @@ I'm a **Level 100 BSc Software Engineering** student at **Ghana Communication Te
 ## 🚀 About Me
 
 - 🎓 Level 100 BSc Software Engineering student at GCTU
-- 💻 Aspiring Software Engineer
-- 🎨 Passionate UI/UX Designer
-- 🎮 Future Game Developer
+- 💻 Building real projects — from a personal portfolio site to interactive UI components
+- 🎨 Passionate about UI/UX design
+- 🎮 Interested in game development
 - 🌱 Continuously learning new technologies and improving my development skills
 - 🤝 Open to collaborating on interesting projects and learning from experienced developers
 
-## 🛠️ Interests
+## 🛠️ Projects
 
-- Software Development
-- UI/UX Design
-- Game Development
-- Web Technologies
-- Open Source
+- **[Portfolio Website](https://preciousseyram.vercel.app)** — my personal portfolio site, built with HTML/CSS/JS, showcasing my work, skills, and background. ([repo](https://github.com/preciemiee/Precie-s-Portfolio))
+- **[Profile Card](https://github.com/preciemiee/Profile-Card)** — a responsive personal profile card with a dark/light mode toggle, like counter, and social links, built with vanilla HTML, CSS, and JavaScript.
 
 ## 📚 Currently Learning
 
@@ -36,7 +33,9 @@ I'm a **Level 100 BSc Software Engineering** student at **Ghana Communication Te
 
 ## 📫 Let's Connect
 
-Feel free to connect with me or reach out if you'd like to collaborate or chat about technology!
+- 💼 [LinkedIn](https://www.linkedin.com/in/precious-seyram-zodzenu-382aa33ab/)
+- 🎥 [YouTube — Precious Codes](https://youtube.com/@precious_seyram)
+- ✉️ preciouseyram000@gmail.com
 
 ---
 
