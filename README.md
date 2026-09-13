@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Precious
 
-I'm a **Level 100 BSc Software Engineering** student at **Ghana Communication Technology University (GCTU)** with a passion for building technology that solves real-world problems.
+I'm a **Level 200 BSc Software Engineering** student at **Ghana Communication Technology University (GCTU)** with a passion for building technology that solves real-world problems.
 
 ## 🚀 About Me
 
